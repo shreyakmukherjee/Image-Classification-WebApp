@@ -11,6 +11,18 @@ This project demonstrates image classification using two models: a custom CNN fo
 - `README.md`: Description and instructions for the project.
 - `example_image.png` (optional): Sample image for testing.
 
+## Table of Contents
+1. [Project Structure](#project-structure)
+2. [Features](#features)
+3. [Setup Instructions](#setup-instructions)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+4. [Example Usage](#example-usage)
+5. [Example Output](#example-output)
+    - [Streamlit Interface](#streamlit-interface)
+    - [Sample Prediction](#sample-prediction)
+6. [Contributing](#contributing)
+
 ## Features
 
 1. **Custom CNN**:
@@ -63,4 +75,3 @@ This project demonstrates image classification using two models: a custom CNN fo
 ### Contributing
 Feel free to fork this repository, open issues, or submit pull requests if you have ideas for improvement.
 
----
