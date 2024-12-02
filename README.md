@@ -2,15 +2,6 @@
 
 This project demonstrates image classification using two models: a custom CNN for the CIFAR-10 dataset and a pre-trained MobileNetV2 model. The project also includes a Streamlit web interface where users can upload images to classify them using the selected model.
 
-## Project Structure
-
-- `cifar10_cnn.py`: Standalone script for training and testing a CNN on the CIFAR-10 dataset.
-- `mobilenet_v2.py`: Standalone script for using the MobileNetV2 model for classification.
-- `app.py`: Streamlit web application to interact with both models and classify uploaded images.
-- `requirements.txt`: Python dependencies for running the project.
-- `README.md`: Description and instructions for the project.
-- `example_image.png` (optional): Sample image for testing.
-
 ## Table of Contents
 1. [Project Structure](#project-structure)
 2. [Features](#features)
@@ -22,6 +13,16 @@ This project demonstrates image classification using two models: a custom CNN fo
     - [Streamlit Interface](#streamlit-interface)
     - [Sample Prediction](#sample-prediction)
 6. [Contributing](#contributing)
+
+## Project Structure
+
+- `cifar10_cnn.py`: Standalone script for training and testing a CNN on the CIFAR-10 dataset.
+- `mobilenet_v2.py`: Standalone script for using the MobileNetV2 model for classification.
+- `app.py`: Streamlit web application to interact with both models and classify uploaded images.
+- `requirements.txt`: Python dependencies for running the project.
+- `README.md`: Description and instructions for the project.
+- `example_image.png` (optional): Sample image for testing.
+
 
 ## Features
 
