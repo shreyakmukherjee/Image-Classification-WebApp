@@ -64,26 +64,3 @@ This project demonstrates image classification using two models: a custom CNN fo
 Feel free to fork this repository, open issues, or submit pull requests if you have ideas for improvement.
 
 ---
-
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-```bash
-
----
-
-### **Additional Notes**
-
-1. **Requirements File (`requirements.txt`)**:
-   Add the required dependencies:
-```
-tensorflow==2.10.0 streamlit numpy matplotlib pillow
-```bash
-
-2. **Adding Example Image**:
-If you have an example output (e.g., a snapshot of the Streamlit interface), save it as `example_image.png` and reference it in the `README.md`.
-
-3. **Testing Before Uploading**:
-Test your scripts locally to ensure they work as expected before uploading to GitHub.
-
-With this setup and instructions, your project will be well-structured, easy to understand, and ready for others to use!
-```
