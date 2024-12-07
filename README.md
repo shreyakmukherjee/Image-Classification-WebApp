@@ -71,7 +71,7 @@ This project demonstrates image classification using two models: a custom CNN fo
 
 - Uploaded Image: A cat.
 - Predicted Class: Cat
-- Confidence Score: 93.45%
+- Confidence Score: 84.77%
 ---
 ### Contributing
 Feel free to fork this repository, open issues, or submit pull requests if you have ideas for improvement.
